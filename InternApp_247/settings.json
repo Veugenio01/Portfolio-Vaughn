@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "json-simple-1.1.1.jar",
+        "junit-4.13.2.jar",
+        "hamcrest-2.2.jar"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "java.test.config": {
+
+        "workingDirectory": "${workspaceFolder}"
+
+    }
+}
